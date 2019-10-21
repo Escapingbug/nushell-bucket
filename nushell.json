@@ -2,9 +2,9 @@
     "homepage": "https://github.com/nushell/nushell",
     "license": "MIT",
     "description": "A modern shell for the GitHub era.",
-    "version": "0.3.0",
-    "url": "https://github.com/nushell/nushell/releases/download/0.3.0/nu_0_3_0_windows.zip",
-    "extract_dir": "nushell_0_3_0",
+    "version": "0.4.0",
+    "url": "https://github.com/nushell/nushell/releases/download/0.4.0/nu_0_4_0_windows.zip",
+    "extract_dir": "nushell_0_4_0",
     "bin": "nu.exe",
     "env_add_path": "."
 }
